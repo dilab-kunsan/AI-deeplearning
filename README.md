@@ -1,6 +1,6 @@
 # Deep Lerning Practice
 
-Code for [book] (BW On, JJ Kim, IH Song, SY Oh)
+Code for [book] (Authors)
 
 ## Requirements
 
