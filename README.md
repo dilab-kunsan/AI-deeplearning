@@ -29,7 +29,7 @@ Code for [book] (Authors)
 
 ## FFNN - News Article Category Classification using FFNN
 
-- Data : 3,000 korean news article (Author crawled)
+- Data : 3,000 korean news articles (Author crawled)
 
 - Preprocess
 
