@@ -1,4 +1,4 @@
-# Book - Chap X Practice
+# Book - Chap X Practices
 
 Code for [book] (Authors)
 
