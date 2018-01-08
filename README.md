@@ -12,7 +12,19 @@ Code for [book] (Authors)
 
 - cuDNN v3 or higher (https://developer.nvidia.com/cudnn)
 
-- Tensorflow (https://www.tensorflow.org/)
+- Tensorflow 0.5.0 (https://www.tensorflow.org/)
+
+## Dependencies
+
+### Python 2.7.10
+
+- numpy
+
+- gensim
+
+- fasttext 
+
+- konlpy
 
 
 ## FFNN - News Article Category Classification using FFNN
