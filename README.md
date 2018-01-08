@@ -37,7 +37,9 @@ Code for [book] (BW On, JJ Kim, IH Song, SY Oh)
 ```python mnist_conv.py```
 	
 
-## RNN - Translation using Seq2Seq Model(*Reference : https://www.tensorflow.org/tutorials/seq2seq)
+## RNN - Translation using Seq2Seq Model
+
+(*Reference : https://www.tensorflow.org/tutorials/seq2seq)
 
 - Data : 10^9French-English corpus and Development sets (http://www.statmt.org/wmt10/)
 
