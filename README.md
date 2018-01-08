@@ -56,3 +56,4 @@ Code for [book] (Authors)
 - Data : 10^9French-English corpus and Development sets (http://www.statmt.org/wmt10/)
 
 - Model : Seq2Seq Model (https://github.com/tensorflow/models/tree/master/tutorials/rnn/translate)
+
