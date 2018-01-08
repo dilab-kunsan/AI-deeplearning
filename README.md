@@ -1,4 +1,4 @@
-# Deep Lerning Practice
+# Book - Chap X Practice
 
 Code for [book] (Authors)
 
