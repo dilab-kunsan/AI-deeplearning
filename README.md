@@ -1,6 +1,6 @@
 # Book - Chap X Practices
 
-Code for [book] (Authors)
+Code for [B. On, J. Lee, J. Kim, S. Oh, I. Song. Big data and artificial intelligence exercise for university students., Hanul Publishing Group, 2018, ISBN: 979-11-87167-58-7]
 
 ## Requirements
 
